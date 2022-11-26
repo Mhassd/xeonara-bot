@@ -1,0 +1,23 @@
+{
+    "ownerNumber": ["6288293956224@s.whatsapp.net","6288293956224@s.whatsapp.net"],
+    "ownerName": "〖𝕴𝖆𝖒𝕾𝖆𝖌𝖆𝖗𝖆〗 ×፝֟͜×",
+    "instagram" : "https://instagram.com/mhasssd",
+    "botName": "xeonara-Mdོ ",
+    "footer": "api.zeeoneofc.xyz",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "BotKey": "Gsyt6jRJ",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": true,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
